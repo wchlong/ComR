@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/org.semanticweb.more.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-api-3.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-api-3.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-apibinding-3.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-apibinding-3.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-contract-3.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-contract-3.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-impl-3.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-impl-3.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-parsers-3.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-parsers-3.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-tools-3.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/owlapi343/owlapi-tools-3.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/reasoner/HermiT/org.semanticweb.HermiT.jar"/>
+	<classpathentry kind="lib" path="D:/Tool of Semantic Web Programing/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
